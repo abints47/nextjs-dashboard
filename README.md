@@ -1,10 +1,42 @@
-<<<<<<< HEAD
-# nextjs-dashboard
-A full-stack financial dashboard application built using the official Next.js App Router curriculum. Features dynamic routing, optimized asset loading, mock database integration, and active navigation states.
-=======
-## Next.js App Router Course - Starter
+# 💸 Acme Financial Dashboard
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Welcome to the **Acme Financial Dashboard**! This is a full-stack web application built as part of my journey through the [Next.js Learn Course](https://nextjs.org/learn). 
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
->>>>>>> bb538f6 (First Commit for the nextjs Dashboard for deploying it in the versal for connecting it into the database)
+The goal of this project is to master the core fundamentals of Next.js by building a modern, performant, and secure financial management dashboard.
+
+---
+
+## 🚀 Purpose & Learning Journey
+
+This repository serves as a practical application of Next.js concepts. While building the Acme Dashboard, I am learning and implementing:
+
+*   **Styling:** Exploring different ways to style Next.js applications (Tailwind CSS and `next/font`).
+*   **Optimizations:** Optimizing images, fonts, and scripts for peak web performance.
+*   **Routing:** Implementing file-system-based routing using nested layouts and pages.
+*   **Data Fetching:** Setting up a PostgreSQL database, fetching data using API routes, and handling loading states via streaming and skeletons.
+*   **Mutating Data:** Using React Server Actions to handle form submissions and update data safely.
+*   **Search and Pagination:** Implementing client-side search and server-side pagination for seamless data navigation.
+*   **Authentication:** Securing the dashboard using `NextAuth.js`.
+*   **Error Handling:** Managing 404 errors and unexpected application errors gracefully.
+
+---
+
+## 🛠️ Tech Stack
+
+*   **Framework:** [Next.js 14+ (App Router)](https://nextjs.org/)
+*   **Language:** TypeScript / JavaScript
+*   **Styling:** Tailwind CSS, Heroicons
+*   **Database:** PostgreSQL (Vercel Postgres)
+*   **Authentication:** NextAuth.js
+*   **Deployment:** Vercel
+
+---
+
+## 📦 Getting Started
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/abints47/nextjs-dashboard.git](https://github.com/abints47/nextjs-dashboard.git)
+   cd nextjs-dashboard
